@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[NOVA]]></title>
+        <description><![CDATA[NOVA]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 20:38:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>NYC Vibrates to the Latin American Culture and Rhythm of COSA NUESTRA </p>]]></description>
+            <link>undefinednyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos/index.html</link>
+            <guid isPermaLink="false">be57f74a-d0da-430f-9051-123d43631086</guid>
+            <pubDate>Wed, 27 Apr 2016 20:38:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
