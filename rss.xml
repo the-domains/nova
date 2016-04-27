@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[NOVA]]></title>
         <description><![CDATA[NOVA]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/nova/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 20:38:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 27 Apr 2016 20:47:51 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/nova/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>NYC Vibrates to the Latin American Culture and Rhythm of COSA NUESTRA </p>]]></description>
-            <link>undefinednyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos/index.html</link>
+            <link>https://thegrid.ai/nova/nyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos/index.html</link>
             <guid isPermaLink="false">be57f74a-d0da-430f-9051-123d43631086</guid>
-            <pubDate>Wed, 27 Apr 2016 20:38:15 GMT</pubDate>
+            <pubDate>Wed, 27 Apr 2016 20:47:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
