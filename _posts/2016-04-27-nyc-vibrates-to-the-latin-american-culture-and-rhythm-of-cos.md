@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'NYC Vibrates to the Latin American Culture and Rhythm of COSA NUESTRA '
-datePublished: '2016-04-27T20:38:15.810Z'
-dateModified: '2016-04-27T20:38:07.618Z'
+datePublished: '2016-04-27T20:47:42.412Z'
+dateModified: '2016-04-27T20:47:29.299Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-27-nyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-27-nyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos.md
-published: true
 url: nyc-vibrates-to-the-latin-american-culture-and-rhythm-of-cos/index.html
 _type: Article
 
